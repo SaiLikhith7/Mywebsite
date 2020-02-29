@@ -41,7 +41,7 @@ body {
 }
 
 .panel-default h4 a, h5 a {
-  color: #0d47a1;
+  color: #000000;
 }
 
 .panel-default h4 a:hover, h5 a:hover {
@@ -78,7 +78,7 @@ body {
   color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 8px solid #2196f3;
+  border-bottom: 8px solid #000000;
 }
 
 #avatar {
