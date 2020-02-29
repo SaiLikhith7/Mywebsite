@@ -45,7 +45,7 @@ body {
 }
 
 .panel-default h4 a:hover, h5 a:hover {
-  color: #2196f3;
+  color: #000000;
   text-decoration: underline;
 }
 
