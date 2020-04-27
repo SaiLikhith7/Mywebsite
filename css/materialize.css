@@ -4378,7 +4378,7 @@ nav .brand-logo [class^="mdi-"], nav .brand-logo [class*="mdi-"],
 nav .brand-logo i.material-icons {
   float: left;
   margin-right: 15px;
-  color:white
+  color:white;
 }
 
 nav .nav-title {
