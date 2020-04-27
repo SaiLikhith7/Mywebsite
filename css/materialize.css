@@ -2790,6 +2790,7 @@ video.responsive-video {
   display: inline-block;
   float: left;
   font-size: 24px;
+  color:white;
 }
 
 .breadcrumb:before {
@@ -4302,6 +4303,7 @@ nav i.material-icons {
   font-size: 24px;
   height: 56px;
   line-height: 56px;
+  color:white;
 }
 
 nav .nav-wrapper {
@@ -4329,7 +4331,7 @@ nav .sidenav-trigger i {
   height: 56px;
   line-height: 56px;
   color:white;
-  
+
 }
 
 nav .brand-logo {
@@ -4376,6 +4378,7 @@ nav .brand-logo [class^="mdi-"], nav .brand-logo [class*="mdi-"],
 nav .brand-logo i.material-icons {
   float: left;
   margin-right: 15px;
+  color:white
 }
 
 nav .nav-title {
