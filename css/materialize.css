@@ -4312,6 +4312,7 @@ nav .nav-wrapper {
 @media only screen and (min-width: 993px) {
   nav a.sidenav-trigger {
     display: none;
+    color:white;
   }
 }
 
@@ -4321,6 +4322,7 @@ nav .sidenav-trigger {
   z-index: 1;
   height: 56px;
   margin: 0 18px;
+  color:white;
 }
 
 nav .sidenav-trigger i {
