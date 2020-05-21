@@ -73,7 +73,7 @@ body {
   color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 8px solid #3c05a1;
+  border-bottom: 8px solid #000000; //3c05a1
 }
 
 #avatar {
